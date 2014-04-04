@@ -5,6 +5,7 @@ An experiment for https://github.com/koral--/android-gif-drawable/issues/46
 
 ## Test Environment
 
+| | |
 |---|---|---|
 | SDK | Android 4.3 |
 | IDE | IntelliJ IDEA 13 |
